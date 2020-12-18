@@ -28,7 +28,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-![Gagandeep's github stats](https://github-readme-stats.vercel.app/api?username=gaganmanku96&show_icons=true&theme=merko)
+![Gagandeep's github stats](https://github-readme-stats.vercel.app/api?username=gaganmanku96&show_icons=true&theme=merko&hide_border=true)
 
 </details>
 
