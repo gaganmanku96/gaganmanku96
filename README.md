@@ -25,6 +25,13 @@
 
 ---
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+![Gagandeep's github stats](https://github-readme-stats.vercel.app/api?username=gaganmanku96&show_icons=true&theme=merko)
+
+</details>
+
 
 ### 📕 Latest Blog Posts
 
