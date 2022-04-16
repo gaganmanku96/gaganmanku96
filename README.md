@@ -6,12 +6,9 @@
 ## I'm a Data Scientist, Developer, and A full time Learner!!
 
 - 👯 I’m looking to collaborate with projects.
-- 🥅 2021 Goals: Complete my on-going projects and contribute more in Open Source Projects
+- 🥅 2022 Goals: Complete my on-going projects and contribute more in Open Source Projects
 - ⚡ My Hobby: I like to read books and play PC games.
 
-<a href="https://www.buymeacoffee.com/TuOmwckVD" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height=50px width=150px ></a>
-
-<a href="https://www.linkedin.com/in/gaganmanku96/" target="_blank"><h2>Endorse me on </h2><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6152iVjc8GnvG9pp0adVl2wwgYFsidHAI0g&usqp=CAU" alt="LinkedIn"  height=50px width=150px > </a>
 
 ### Languages and Tools:
 
