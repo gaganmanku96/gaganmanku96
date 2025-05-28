@@ -6,7 +6,7 @@
 ## I'm a Data Scientist, Developer, and A full-time Learner!!
 
 - 👯 I’m looking to collaborate with projects.
-- 🥅 2024 Goals: Complete my ongoing projects and contribute more in Open Source Projects
+- 🥅 2025 Goals: Complete my ongoing projects and contribute more in Open Source Projects
 - ⚡ My Hobby: I like to read books and play PC games.
 
 
