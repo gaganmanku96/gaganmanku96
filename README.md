@@ -18,9 +18,6 @@
 <div align="center">
 
 | 🤖 **GenAI Systems** | 📊 **Data Processing** | 🚀 **MLOPS** | 👥 **Team Leadership** |
-|:---:|:---:|:---:|:---:|
-| **Multi-Agent Chatbots** | **10K+ Calls/Month** | **40% Engagement ↑** | **AVP Data Scientist** |
-| **Custom LLM Frameworks** | **10+ Active Projects** | **70% Accuracy ↑** | **Multiple Promotions** |
 
 </div>
 
@@ -112,7 +109,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gaganmanku96/gaganmanku96/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
