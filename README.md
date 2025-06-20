@@ -1,44 +1,117 @@
-### Hi there, I'm Gagandeep Singh 👋
+<div align="center">
+  
+# 🚀 Gagandeep Singh
+### *Generative AI Architect & Data Science Leader*
 
-<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=6%2B+Years+Building+AI+Solutions;Agentic+AI;GenAI+Systems+Expert;NLP+%26+Transformer+Architecture;Leading+Data+Science+Teams)](https://git.io/typing-svg)
 
-## I'm a Data Scientist, Developer, and A full-time Learner!!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaganmanku96)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gaganmanku96)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaganmanku96@gmail.com)
 
-- 👯 I’m looking to collaborate with projects.
-- 🥅 2025 Goals: Complete my ongoing projects and contribute more in Open Source Projects
-- ⚡ My Hobby: I like to read books and play PC games.
-
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-<img align="left" alt="RASA" width="26px" src="https://d33wubrfki0l68.cloudfront.net/37c130df420c6a673ad6c2e494c0224606ace77b/e6afa/static/60e441f8eadef13bea0cc790c8cf188b/rasa-logo.svg" />
-<img align="left" alt="Kubernetes" width="26px" src="https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png" />
-<img align="left" alt="PyTorch" width="80px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/pytorch.svg" />
-<br />
-<br />
-
+</div>
 
 ---
 
-<summary>GitHub Stats</summary>
+## 🎯 **Impact at Scale**
 
-![Gagandeep's github stats](https://github-readme-stats.vercel.app/api?username=gaganmanku96&show_icons=true&theme=merko&hide_border=true)
+<div align="center">
+
+| 🤖 **GenAI Systems** | 📊 **Data Processing** | 🚀 **MLOPS** | 👥 **Team Leadership** |
 
 
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Gibberish Text Detection using Markov Model](https://medium.com/ml-course-microsoft-udacity/gibberish-text-detection-using-markov-model-c4082f286985)
-- [Multicollinearity - How does it create a problem?](https://towardsdatascience.com/https-towardsdatascience-com-multicollinearity-how-does-it-create-a-problem-72956a49058)
-- [Going beyond traditional Sentiment Analysis Techniques](https://medium.com/analytics-vidhya/going-beyond-traditional-sentiment-analysis-technique-b9c91b313c07)
-- [Docker Made easy for Data Scientists](https://towardsdatascience.com/docker-made-easy-for-data-scientists-b32efbc23165)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://medium.com/@gaganmanku098)
+</div>
 
 ---
+
+## 🧠 **Expertise Matrix**
+
+### 🤖 **Generative AI & LLMs**
+```python
+expertise = {
+    "multi_agent_systems": ["ChatBot Orchestration", "RLHF Implementation"],
+    "llm_frameworks": ["Custom Telemetry", "Cost Optimization", "Error Monitoring"],
+    "transformer_architecture": ["Fine-tuning", "Custom NER", "Emotion Detection"],
+    "deployment": ["Docker", "Kubernetes", "Azure Cloud"]
+}
+```
+
+### 📊 **Advanced Analytics**
+- **🎯 Predictive Modeling**: Churn Analysis, Key Driver Analysis, NPS Simulation
+- **📈 Text Analytics**: Sentiment Analysis, Entity Recognition, Topic Modeling
+- **🗣️ Speech Analytics**: Call Quality Assessment, Agent Performance Tracking
+- **🔍 Unsupervised Learning**: Clustering, Anomaly Detection, Pattern Recognition
+
+---
+
+## 🛠️ **Tech Arsenal**
+
+<div align="center">
+
+### **AI/ML Stack**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### **Cloud & DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### **Data & Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_DB-FF6B6B?style=for-the-badge)
+
+</div>
+
+---
+
+## 📈 **GitHub Analytics**
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaganmanku96&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gaganmanku96&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&currStreakLabel=00D4FF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaganmanku96&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF)
+
+</div>
+
+---
+
+## ✍️ **Knowledge Sharing**
+
+### 📚 **Featured Publications**
+- 🤖 [**Gibberish Text Detection using Markov Model**](https://medium.com/ml-course-microsoft-udacity/gibberish-text-detection-using-markov-model-c4082f286985)
+- 📊 [**Multicollinearity - How does it create a problem?**](https://towardsdatascience.com/https-towardsdatascience-com-multicollinearity-how-does-it-create-a-problem-72956a49058)
+- 🔍 [**Going beyond traditional Sentiment Analysis Techniques**](https://medium.com/analytics-vidhya/going-beyond-traditional-sentiment-analysis-technique-b9c91b313c07)
+- 🐳 [**Docker Made easy for Data Scientists**](https://towardsdatascience.com/docker-made-easy-for-data-scientists-b32efbc23165)
+
+➡️ [**Read More Articles →**](https://medium.com/@gaganmanku96)
+
+---
+
+## 🎯 **Let's Connect & Collaborate**
+
+<div align="center">
+
+**Open to discussing:**
+- 🤖 Generative AI Architecture & Implementation
+- 📊 Large-Scale Data Science Solutions  
+- 🚀 AI Product Development & Strategy
+- 👥 Technical Leadership & Team Building
+
+### *"Transforming Data into Intelligent Solutions"*
+
+[![Profile Views](https://komarev.com/ghpvc/?username=gaganmanku96&color=00D4FF&style=for-the-badge)](https://github.com/gaganmanku96)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gaganmanku96/gaganmanku96/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
