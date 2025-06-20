@@ -18,7 +18,9 @@
 <div align="center">
 
 | 🤖 **GenAI Systems** | 📊 **Data Processing** | 🚀 **MLOPS** | 👥 **Team Leadership** |
-
+|:---:|:---:|:---:|:---:|
+| **Multi-Agent Chatbots** | **10K+ Calls/Month** | **40% Engagement ↑** | **AVP Data Scientist** |
+| **Custom LLM Frameworks** | **10+ Active Projects** | **70% Accuracy ↑** | **Multiple Promotions** |
 
 </div>
 
@@ -27,14 +29,13 @@
 ## 🧠 **Expertise Matrix**
 
 ### 🤖 **Generative AI & LLMs**
-```python
-expertise = {
-    "multi_agent_systems": ["ChatBot Orchestration", "RLHF Implementation"],
-    "llm_frameworks": ["Custom Telemetry", "Cost Optimization", "Error Monitoring"],
-    "transformer_architecture": ["Fine-tuning", "Custom NER", "Emotion Detection"],
-    "deployment": ["Docker", "Kubernetes", "Azure Cloud"]
-}
-```
+- **🚀 Multi-Agent Systems**: Agent Orchestration, RLHF Implementation, Agent Workflows
+- **⚙️ LLM Frameworks**: Custom Telemetry, Cost Optimization, Error Monitoring, Opik, LangFuse
+- **🧠 Transformer Architecture**: Fine-tuning
+- **🔧 MLOps**: Docker, Kubernetes, Azure Cloud, Model Deployment
+- **🎤 Speech-to-Text**: Voice Analytics, Call Transcription, Audio Processing
+- **📝 NLP**: BERT, Embeddings
+
 
 ### 📊 **Advanced Analytics**
 - **🎯 Predictive Modeling**: Churn Analysis, Key Driver Analysis, NPS Simulation
